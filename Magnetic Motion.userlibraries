@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gdx-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.1/ebd13341e1f7bf0139baf26aaef195a00677d7c3/gdx-1.0.1.jar" />
+  </library>
+  <library name="gdx-box2d-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.0.1/78a107753410e8bb11216b654489996bf573b163/gdx-box2d-1.0.1.jar" />
+  </library>
+  <library name="gdx-backend-lwjgl-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.0.1/e75d8a0d8d2469dfbbc32ef64b122b609f996ce7/gdx-backend-lwjgl-1.0.1.jar" />
+  </library>
+  <library name="gdx-platform-1.0.1-natives-desktop">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.0.1/74a0fc883e2bfe371341ed721c8e28b36f96b3f6/gdx-platform-1.0.1-natives-desktop.jar" />
+  </library>
+  <library name="gdx-box2d-platform-1.0.1-natives-desktop">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.0.1/a5cc761b88de84673a13e0336e22653fa0a119aa/gdx-box2d-platform-1.0.1-natives-desktop.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.1-natives-linux">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/aa9aae879af8eb378e22cfc64db56ec2ca9a44d1/lwjgl-platform-2.9.1-natives-linux.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.1-natives-osx">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac/lwjgl-platform-2.9.1-natives-osx.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.1-natives-windows">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/4c517eca808522457dd95ee8fc1fbcdbb602efbe/lwjgl-platform-2.9.1-natives-windows.jar" />
+  </library>
+  <library name="jutils-1.0.0">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+  </library>
+  <library name="jinput-2.0.5">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+  </library>
+  <library name="lwjgl-2.9.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1/f58c5aabcef0e41718a564be9f8e412fff8db847/lwjgl-2.9.1.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-linux">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-osx">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-windows">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar" />
+  </library>
+  <library name="lwjgl_util-2.9.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1/290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e/lwjgl_util-2.9.1.jar" />
+  </library>
+  <library name="jlayer-1.0.1-gdx">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/7cca83cec5c1b2f011362f4d85aabd71a73b049d/jlayer-1.0.1-gdx.jar" />
+  </library>
+  <library name="jorbis-0.0.17">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/8872d22b293e8f5d7d56ff92be966e6dc28ebdc6/jorbis-0.0.17.jar" />
+  </library>
+  <library name="gdx-backend-gwt-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0.1/ab67b32c6672afaa3b94faa680ae9f33a78fe1e1/gdx-backend-gwt-1.0.1.jar" />
+  </library>
+  <library name="gdx-backend-gwt-1.0.1-sources">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.0.1/b4363a70674bee4eab036f50b1cedfec871327d8/gdx-backend-gwt-1.0.1-sources.jar" />
+  </library>
+  <library name="gdx-1.0.1-sources">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.1/f98975f65ecc1e68f9d626e6f850457e17d6604a/gdx-1.0.1-sources.jar" />
+  </library>
+  <library name="gdx-box2d-1.0.1-sources">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.0.1/ce00a15cbe5d79a259bbde4ca7ed736d359991d/gdx-box2d-1.0.1-sources.jar" />
+  </library>
+  <library name="gdx-box2d-gwt-1.0.1-sources">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-gwt/1.0.1/23c02b60d3364531edf8db7a3c880e4f4abaa529/gdx-box2d-gwt-1.0.1-sources.jar" />
+  </library>
+  <library name="validation-api-1.0.0.GA-sources">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/7a561191db2203550fbfa40d534d4997624cd369/validation-api-1.0.0.GA-sources.jar" />
+  </library>
+  <library name="validation-api-1.0.0.GA">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+  </library>
+  <library name="json-20090211">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.json/json/20090211/c183aa3a2a6250293808bba12262c8920ce5a51c/json-20090211.jar" />
+  </library>
+  <library name="gwt-user-2.6.0">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-user/2.6.0/8237d1bd37127188107388c8724be44a0e9f73ca/gwt-user-2.6.0.jar" />
+  </library>
+  <library name="gwt-servlet-2.6.0">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-servlet/2.6.0/d1e40c23bf78192482ee76c93619a10b4ea649f7/gwt-servlet-2.6.0.jar" />
+  </library>
+  <library name="robovm-rt-0.0.12">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/0.0.12/3826eb9e945dc49e2b168dc7eff80c50d86f4aa9/robovm-rt-0.0.12.jar" />
+  </library>
+  <library name="robovm-cocoatouch-0.0.12">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/0.0.12/833f1c6c42b6fbc5c07ea266519e7d6d2a93eb8c/robovm-cocoatouch-0.0.12.jar" />
+  </library>
+  <library name="gdx-backend-robovm-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.0.1/ee67503cc8cf907fb04181708c2a5ad3d1876c99/gdx-backend-robovm-1.0.1.jar" />
+  </library>
+  <library name="robovm-objc-0.0.12">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/0.0.12/1dd59ffcf4d4892dcf65f07d8d6d5d83e2cc1d02/robovm-objc-0.0.12.jar" />
+  </library>
+  <library name="gdx-backend-android-1.0.1">
+    <archive path="/Users/akshaysubramaniam/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.1/e72403f6baff51e9a638939dd2c8a5e9a7f7dc18/gdx-backend-android-1.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
