@@ -16,8 +16,6 @@ public class MapRenderer {
 	Map map;
 	static OrthographicCamera cam;
 	SpriteBatch batch = new SpriteBatch(5460);
-	ImmediateModeRenderer20 renderer = new ImmediateModeRenderer20(false, true, 0);
-	int[][] blocks;
     TextureRegion bumper;
     TextureRegion ball;
     TextureRegion magnetPos;
@@ -27,20 +25,15 @@ public class MapRenderer {
 
 	public MapRenderer (Map map) {
 		this.map = map;
-        //Generates a cam with a specific bounds and position
+        //Generates a camera with a specific bounds and position
 		this.cam = new OrthographicCamera(24, 16);
 		this.cam.position.set(map.shooter.bounds.x, map.shooter.bounds.y, 0);
-        //Creates a texture based off the Bob Image
-        Texture grid = new Texture(Gdx.files.internal("data/bob.png"));
-        TextureRegion[] split;
         //Creates all the images of the objects
         ball = new TextureRegion(new Texture(Gdx.files.internal("data/ball1.png")));
         bumper = new TextureRegion(new Texture(Gdx.files.internal("data/ball2.png")));
         magnetNeg = new TextureRegion(new Texture(Gdx.files.internal("data/electron.png")));
         magnetPos = new TextureRegion(new Texture(Gdx.files.internal("data/proton.png")));
-        //Takes a piece of the grid texture to create the shooter
-        split = new TextureRegion(grid).split(20, 20)[3];
-        shooter = split[4];
+        shooter = new TextureRegion(new Texture(Gdx.files.internal("data/shooter.png")));
     }
 
 	float stateTime = 0;
@@ -66,10 +59,12 @@ public class MapRenderer {
 		fps.log();
 	}
 
+    //Renders objects at specific positions, widths, heights, and angles as specified by the batch constructor
 	private void renderBall () {
         batch.draw(this.ball, map.ball.pos.x, map.ball.pos.y, 0.5f, 0.5f, 1, 1, 1, 1, map.ball.angle);
 	}
 
+    //Uses the bumpers array to render each bumper individually
     private void renderBumpers () {
         for (int i = 0; i < map.bumpers.size; i++) {
             Bumper bumper = map.bumpers.get(i);
