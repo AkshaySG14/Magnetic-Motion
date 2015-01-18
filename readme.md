@@ -2,4 +2,4 @@ This demo is operated exclusively through the mouse. A left click will shoot the
 	The middle mouse button will spawn a bumper, which can interact with the charges the same way the ball does. It will also rebound with balls, simulating the act of transfer of momentum. The two facets of magnetic attraction and momentum should serve as a fun physics demo.
 	A jar is available for easy access to the demo!
 	
-	Created by Inoculates
+	Made by Akshay Subramaniam
